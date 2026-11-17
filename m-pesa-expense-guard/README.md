@@ -1,5 +1,8 @@
 # M-Pesa Scam & Expense Guard for Small Traders
 
+![image alt](https://github.com/Exdevo/MPesa-Scam-Expense-Guard/blob/67ba932c43aa451af09a172e8ef1e82de25a24b2/screenshot-2026-11-17_17-08-01-chromium.png)
+
+
 A small business finance dashboard for traders who receive M-Pesa messages daily. It helps to:
 
 - parse incoming M-Pesa SMS text or uploaded files,
